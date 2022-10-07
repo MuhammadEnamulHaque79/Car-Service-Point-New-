@@ -1,0 +1,19 @@
+.expert-container {
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+
+.expert-container img {
+    width: 400px;
+    height: 350px;
+    border: 1px solid lightgrey;
+    border-radius: 15px;
+    /* margin-left: 1px; */
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}

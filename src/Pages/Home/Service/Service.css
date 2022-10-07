@@ -8,10 +8,10 @@
 .service-container img{
     width: 415px;
     height: 375px;
-    /* justify-content: center; */
     border: 1px solid lightgrey;
     border-radius: 15px;
     margin-left: 1px;
     margin-top: 5px;
     padding: 2px;
 }
+    
