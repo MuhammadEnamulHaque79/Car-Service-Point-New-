@@ -1,42 +1,42 @@
 [
     {"id":1,
     "name":"Oil Change", 
-    "description":"lorem ipsum", 
+    "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum deleniti quisquam, quasi ea officia beatae earum? Fuga corporis omnis nostrum ut pariatur velit distinctio iusto!", 
     "price":99,
     "img":"https://i.ibb.co/hYKJ350/car-service-maintenance.jpg"
 },
 
     {"id":2,
     "name":"Wheel Change",
-     "description":"lorem ipsum",
+     "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum deleniti quisquam, quasi ea officia beatae earum? Fuga corporis omnis nostrum ut pariatur velit distinctio iusto!",
       "price":89,
       "img":"https://i.ibb.co/s63GRX2/changing-wheels-car.jpg"
     },
 
     {"id":3,
     "name":"HeadLight Change",
-     "description":"lorem ipsum", 
+     "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum deleniti quisquam, quasi ea officia beatae earum? Fuga corporis omnis nostrum ut pariatur velit distinctio iusto!", 
      "price":79,
      "img":"https://i.ibb.co/HLZJmB4/garage-repair-service.jpg"
     },
 
     {"id":4,
     "name":"Analitics Hole",
-     "description":"lorem ipsum",
+     "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum deleniti quisquam, quasi ea officia beatae earum? Fuga corporis omnis nostrum ut pariatur velit distinctio iusto!",
       "price":69,
       "img":"https://i.ibb.co/1qctR4c/mechanic-servicing-car.jpg"
     },
 
     {"id":5,
     "name":"Wheel Repair",
-     "description":"lorem ipsum", 
+     "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum deleniti quisquam, quasi ea officia beatae earum? Fuga corporis omnis nostrum ut pariatur velit distinctio iusto!", 
      "price":59,
      "img":"https://i.ibb.co/XCdzSmk/preparing-check-list.jpg"
     },
 
     {"id":6,
     "name":"Battery Change", 
-    "description":"lorem ipsum",
+    "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum deleniti quisquam, quasi ea officia beatae earum? Fuga corporis omnis nostrum ut pariatur velit distinctio iusto!",
      "price":49,
      "img":"https://i.ibb.co/PYpZQbp/repairing-vehicle.jpg"
     }

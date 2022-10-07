@@ -4,6 +4,19 @@
     border: 1px solid lightcyan;
     border-radius: 15px;
     gap: 15px;
-    /* justify-content: center; */
-    
 }
+
+/*make services responsive*/
+@media only screen and(max-width:576px) {
+    .services-container{
+        grid-template-columns: repeat(1, 1fr);
+    };
+};
+
+@media only screen and (min-width:577px) and (max-width:992px) {
+    .services-container{
+        grid-template-columns: repeat(2, 1fr);
+    };
+    
+};
+
