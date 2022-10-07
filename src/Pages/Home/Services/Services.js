@@ -12,7 +12,7 @@ const Services = () => {
 
     return (
         <div>
-            <h1 style={{textAlign:'center',color:'gray',fontFamily:'monaco'}}> Our Services </h1>
+            <h1 style={{textAlign:'center',color:'gray',fontFamily:'monaco',marginTop:'5px'}}> Our Services </h1>
             <div className='services-container'>
                 {
                     services.map(service => <Service
