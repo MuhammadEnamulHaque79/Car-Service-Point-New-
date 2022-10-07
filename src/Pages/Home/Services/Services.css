@@ -1,0 +1,9 @@
+.services-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    border: 1px solid lightcyan;
+    border-radius: 15px;
+    gap: 15px;
+    /* justify-content: center; */
+    
+}
