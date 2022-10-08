@@ -39,3 +39,8 @@ folder into src;
 5.
 
  */
+
+/*
+1.install react-firebase-hooks and also use their documentation;
+2.
+ */
