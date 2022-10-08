@@ -35,5 +35,7 @@ folder into src;
 2.Attatch <Header></Header> componet top of Routes and attatch <Footer></Footer>
     componet under  of all Routes;
 3. Into Home pages create Home.js and Home.css, Services.js & Services.css component;
-4.
+4.inside header we use <navbar></navbar> and also use sticky for fixed position;
+5.
+
  */
